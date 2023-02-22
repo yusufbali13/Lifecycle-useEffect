@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lifecycle-useEffect/static/css/main.c2cab247.css",
+    "main.js": "/Lifecycle-useEffect/static/js/main.cd9f375b.js",
+    "index.html": "/Lifecycle-useEffect/index.html",
+    "main.c2cab247.css.map": "/Lifecycle-useEffect/static/css/main.c2cab247.css.map",
+    "main.cd9f375b.js.map": "/Lifecycle-useEffect/static/js/main.cd9f375b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.cd9f375b.js"
+  ]
+}
